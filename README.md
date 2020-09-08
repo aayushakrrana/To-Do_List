@@ -2,4 +2,4 @@
 # Level-4
 
 
-![Steps](process.png)
+![Steps](process.gif)
